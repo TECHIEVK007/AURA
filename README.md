@@ -1,199 +1,165 @@
 # AURA
-
-<p align="center">
-  <h1 align="center">AURA</h1>
-  <h3 align="center">Advanced Unified Revenue Analytics</h3>
-  <p align="center">
-    <strong>Fashion Retail Decision Support Platform</strong>
-  </p>
-</p>
+### Advanced User Recommendation & Analytics
 
 ---
 
-## 📖 Overview
+## Project Overview
 
-AURA (Advanced Unified Revenue Analytics) is an intelligent Fashion Retail Decision Support Platform designed to transform raw retail data into actionable business insights.
+AURA is a Python-based Data Analytics and Recommendation System developed as an academic project with an industry-level architecture.
 
-The platform combines Python-based data analytics with interactive business intelligence dashboards to help fashion retailers make informed decisions related to sales performance, inventory optimization, customer behavior, product visibility, and marketing strategies.
+The goal of AURA is to analyze fashion datasets, clean the data, perform analytics, generate recommendations, visualize insights, and integrate with Power BI dashboards.
 
-AURA is being developed as a scalable product that can evolve from a desktop analytics solution into a complete web and mobile platform.
-
----
-
-## 🎯 Vision
-
-To empower fashion retailers with data-driven decision support that improves operational efficiency, profitability, and customer satisfaction.
+The project is being developed module by module to understand every concept instead of copying complete code.
 
 ---
 
-## 🚀 Objectives
+# Project Structure
 
-- Analyze fashion retail sales data
-- Generate meaningful business insights
-- Monitor sales and inventory performance
-- Understand customer purchasing behavior
-- Recommend discount strategies
-- Improve product visibility
-- Support business decision making
-- Deliver interactive dashboards through Power BI
-
----
-
-## 🛠 Technology Stack
-
-### Programming Language
-- Python
-
-### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- OpenPyXL
-
-### Business Intelligence
-- Power BI
-
-### Dataset
-- CSV
-- Excel
-
-### Development Environment
-- Visual Studio Code
-- Jupyter Notebook
-
----
-
-## 🏗 Project Architecture
-
-```
-Raw Dataset
-      │
-      ▼
-Data Engine
-      │
-      ▼
-Analytics Engine
-      │
-      ▼
-Recommendation Engine
-      │
-      ▼
-Visualization Engine
-      │
-      ▼
-Power BI Dashboard
-      │
-      ▼
-Business Decision Support
-```
-
----
-
-## 📂 Project Structure
-
-```
 AURA/
-│
-├── main.py
-│
-├── Core/
-│
-├── Engines/
-│
-├── Dataset/
-│
-├── Dashboard/
-│
-├── Output/
-│
+
 ├── Assets/
-│
+
+├── Core/
+
+├── Dashboard/
+
+├── Dataset/
+
+│ ├── Raw/
+
+│ ├── Processed/
+
+│ └── Sample/
+
 ├── Documentation/
-│
-└── Presentation/
-```
+
+├── Engines/
+
+│ ├── Analytics/
+
+│ ├── Data/
+
+│ ├── Recommendation/
+
+│ ├── Reporting/
+
+│ └── Visualization/
+
+├── Output/
+
+│ ├── Graphs/
+
+│ ├── Logs/
+
+│ └── Reports/
+
+├── Presentation/
+
+├── main.py
+
+└── requirements.txt
 
 ---
 
-## 🌟 Core Features
+# Current Progress
 
-- Executive Dashboard
-- Sales Analytics
-- Product Analytics
-- Customer Analytics
-- Inventory Analytics
-- Regional Analytics
-- Seasonal Analytics
-- Marketing Intelligence
-- Business Recommendation Engine
-- Automated Reporting
+## Data Engine
 
----
+- ✅ Load Dataset
+- ✅ Validate Dataset
+- ✅ Clean Missing Values
+- ✅ Remove Duplicate Values
 
-## 🛣 Development Roadmap
+Upcoming Modules
 
-### Phase 1
-- Project Planning
-- Dataset Engineering
-- Data Cleaning
-
-### Phase 2
 - Analytics Engine
-- Business Insights
-- Visualization
-
-### Phase 3
+- Visualization Engine
 - Recommendation Engine
+- Reporting Engine
 - Power BI Dashboard
 
-### Phase 4
-- Product Optimization
-- Documentation
-- Final Presentation
+---
+
+# Technologies Used
+
+- Python
+- Pandas
+- Power BI
+- Git
+- GitHub
+- VS Code
+
+Future Versions
+
+- SQLite
+- Machine Learning
+- AI Recommendation System
+- Web Dashboard
 
 ---
 
-## 📌 Project Status
+# Development Philosophy
 
-Current Version
+This project is written completely from scratch.
 
-```
-AURA v1.0 (In Development)
-```
+Every line of code is understood before being added.
 
-Current Phase
-
-```
-Foundation & Architecture
-```
+The objective is not just to complete a project,
+but to become a better software developer while building it.
 
 ---
 
-## 🔒 Repository Status
+# Developer Notes
 
-This repository is currently under active development.
+⚠ WARNING
 
-Features, architecture, and documentation are continuously evolving.
+Call **108** before reading the source code.
+
+The developers are not responsible for:
+
+- Sudden laughter.
+- Flashbacks about your crush.
+- Random motivation to propose.
+- Mixed signals from your crush.
+- Unexpected wedding arrangements after `dropna()`.
+- Emotional damage caused by Python.
 
 ---
 
-## 📜 License
+## Developer Build
 
-This project is currently proprietary.
+This repository currently contains the **Developer Build**.
 
-All rights reserved.
+Developer comments include:
+
+- Your crush blocked you.
+- Mixed signal detector.
+- Rejection counter.
+- Wedding arrangements after cleaning the dataset.
+- Relationship Engineering powered by Pandas.
+
+These comments are intentionally added to make learning programming enjoyable.
+
+The Release Version (v1.0) will contain professional comments and production-ready code.
 
 ---
 
-## 👨‍💻 Developed By
+# Mission
 
-**Project AURA Team**
+Build.
 
-Advanced Unified Revenue Analytics
+Break.
 
-Fashion Retail Intelligence Platform
+Debug.
 
-```
-"Transforming Data into Decisions."
-```
+Learn.
+
+Repeat.
+
+---
+
+# Developed By
+An Idiot
+Vamsi Krishna
+
+Project AURA
