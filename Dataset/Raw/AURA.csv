@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Product_ID,Product_Name,Category,Brand,Color,Size,Quantity,Price,Discount_Percent,Sales,Profit,Payment_Method,Inventory_Stock
+1001,05/01/2026,C001,Aarav,Male,24,Hyderabad,Telangana,P101,Laptop,Electronics,Lenovo,Blue,M,2,1499,10,2698.2,540,UPI,120
+1002,07/01/2026,C002,Ananya,Female,28,Bengaluru,Karnataka,P102,Laptop Bag,Electronics,Lenovo,Red,S,1,2499,15,2124.15,620,Card,80
+1003,10/01/2026,C003,Rahul,Male,31,Chennai,Tamil Nadu,P103,Wireless Mouse,Electronics,Lenovo,White,9,1,3999,5,3799.05,900,UPI,45
+1004,12/01/2026,C004,Priya,Female,22,Mumbai,Maharashtra,P104,Handbag,Accessories,H&M,Black,,1,2999,20,2399.2,700,Cash,60
+1005,15/01/2026,C005,Kiran,Male,27,Delhi,Delhi,P105,Denim Jeans,Men,Wrangler,Blue,32,3,1999,12,5277.36,1100,Card,95
+1006,18/01/2026,C006,Sneha,Female,30,Pune,Maharashtra,P106,Kurti,Women,Biba,Green,L,2,1599,8,2942.16,680,UPI,140
+1007,20/01/2026,C007,Vikram,Male,35,Kolkata,West Bengal,P107,Sports Jacket,Men,Puma,Grey,XL,1,4599,18,3771.18,980,Card,30
+1008,22/01/2026,C008,Meera,Female,26,Visakhapatnam,Andhra Pradesh,P108,Heels,Footwear,Aldo,Beige,7,1,3499,10,3149.1,820,UPI,55
+1009,25/01/2026,C009,Arjun,Male,29,Kochi,Kerala,P109,T-Shirt,Men,Uniqlo,Black,L,4,899,5,3416.2,720,Cash,210
+1010,28/01/2026,C010,Divya,Female,25,Jaipur,Rajasthan,P110,Ethnic Set,Women,W,Pink,M,1,3299,25,2474.25,760,Card,70
