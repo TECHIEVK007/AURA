@@ -887,6 +887,4 @@ into one modular retail analytics platform.
 ### **Developed by Sahu Tech™**
 
 ```
-
-Then click **Preview** once to make sure everything renders nicely, and commit the README change on GitHub.
 ```
