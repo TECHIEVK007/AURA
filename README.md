@@ -8,7 +8,13 @@
 The project transforms retail data into useful analytics, recommendations, visualizations, dashboard insights, and downloadable reports through a structured multi-engine architecture.
 
 > **Developed by Sahu Tech™**
+---
 
+## Dashboard Preview
+
+![AURA Dashboard](Documentation/Images/aura-dashboard.png)
+
+---
 ---
 
 ## Overview
